@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Buy groceries",
+    "content": "Milk, bread, eggs, and apples",
+    "tag": "Shopping"
+  },
+  {
+    "title": "Team sync",
+    "content": "Discuss sprint tasks and blockers",
+    "tag": "Meeting"
+  },
+  {
+    "title": "Morning workout",
+    "content": "30 minutes of stretching and cardio",
+    "tag": "Health"
+  },
+  {
+    "title": "Trip ideas",
+    "content": "Look for weekend places near Berlin",
+    "tag": "Travel"
+  },
+  {
+    "title": "Monthly budget",
+    "content": "Review spending and update savings goals",
+    "tag": "Finance"
+  }
+]
